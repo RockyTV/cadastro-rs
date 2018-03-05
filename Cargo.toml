@@ -1,6 +1,6 @@
 [package]
 name = "cadastro"
 version = "0.1.0"
-authors = ["Alexandre Oliveira <rockytvbr@gmail.com>"]
+authors = ["Alexandre Oliveira <rockytvbr@gmail.com>", "Lucas Bittencourt <lbittencs@gmail.com>"]
 
 [dependencies]
